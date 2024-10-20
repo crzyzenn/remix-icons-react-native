@@ -1,0 +1,19 @@
+{
+  "name": "remix-icons-react-native",
+  "description": "Remix Icon for React Native",
+  "author": "Zenish Shrestha",
+  "version": "0.4.0",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "keywords": [
+    "react-native-remix-icon",
+    "remixicon",
+    "remixicon-rn",
+    "react-native",
+    "icons"
+  ],
+  "license": "MIT",
+  "files": [
+    "src"
+  ]
+}
